@@ -1,0 +1,1 @@
+HNG internship is a platform that trains programmers across the experience spectrum to be better and advance in their careers.
